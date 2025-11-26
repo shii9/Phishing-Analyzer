@@ -106,12 +106,6 @@
 
 ---
 
-### Screenshots
-
-> **Note**: Add screenshots of your application here to showcase the UI and features.
-
----
-
 ## 🛠️ Technology Stack
 
 ### Frontend
