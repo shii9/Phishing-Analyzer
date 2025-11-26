@@ -345,11 +345,6 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
@@ -368,7 +363,7 @@ If you encounter any issues or have questions:
 
 - 🐛 [Report a bug](https://github.com/shii9/Phishing-Analyzer/issues)
 - 💡 [Request a feature](https://github.com/shii9/Phishing-Analyzer/issues)
-- 📧 Contact: [Your Email]
+- 📧 Contact: sourovlimon85@gmail.com
 
 ---
 
