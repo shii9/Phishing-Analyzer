@@ -80,41 +80,6 @@
 
 ---
 
-## 🛠️ Technology Stack
-
-### Frontend
-- **React 18.3.1** - UI library
-- **TypeScript 5.8.3** - Type safety
-- **Vite 5.4.19** - Build tool and dev server
-- **React Router DOM 6.30.1** - Routing
-
-### UI Components & Styling
-- **Tailwind CSS 3.4.17** - Utility-first CSS framework
-- **Radix UI** - Accessible component primitives
-- **Framer Motion 12.23.22** - Animation library
-- **Lucide React** - Icon library
-- **Shadcn/ui** - Re-usable component library
-
-### State Management & Data
-- **TanStack React Query 5.83.0** - Server state management
-- **React Hook Form 7.61.1** - Form handling
-- **Zod 3.25.76** - Schema validation
-- **Supabase** - Backend and database (optional)
-
-### Utilities
-- **date-fns** - Date manipulation
-- **jsPDF** - PDF generation
-- **canvas-confetti** - Celebration effects
-- **clsx & tailwind-merge** - Conditional styling
-
-### Development Tools
-- **ESLint** - Code linting
-- **TypeScript ESLint** - TypeScript-specific linting
-- **Autoprefixer** - CSS vendor prefixing
-- **PostCSS** - CSS processing
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
