@@ -13,11 +13,10 @@
   - [Installation](#installation)
   - [Running the Application](#running-the-application)
 - [Usage](#-usage)
-- [Keyboard Shortcuts](#-keyboard-shortcuts)
 - [Project Structure](#-project-structure)
 - [Features in Detail](#-features-in-detail)
 - [Contributing](#-contributing)
-- [License](#-license)
+
 - 🎮 **Gamified Learning**: Interactive quizzes and achievement system to learn security best practices
 - 🌐 **Multilingual Support**: Analyze emails in multiple languages
 - 📊 **Comprehensive Reports**: Detailed analysis with threat breakdowns and security recommendations
