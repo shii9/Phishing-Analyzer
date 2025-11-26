@@ -94,12 +94,6 @@
 
 ---
 
-### Screenshots
-
-> **Note**: Add screenshots of your application here to showcase the UI and features.
-
----
-
 ## 🛠️ Technology Stack
 
 ### Frontend
@@ -265,19 +259,6 @@ npm run lint
 - **Copy to Clipboard**: Click the copy icon
 - **Share via URL**: Click the share icon to generate a shareable link
 - **Export to PDF**: Click the PDF icon to download a detailed report
-
----
-
-## ⌨️ Keyboard Shortcuts
-
-| Shortcut | Action |
-|----------|--------|
-| `Ctrl+Enter` | Analyze email |
-| `Esc` | Clear/Reset analysis |
-| `H` | Toggle history sidebar |
-| `Q` | Open quiz mode |
-| `S` | Toggle stats dashboard |
-| `?` | Show keyboard shortcuts help |
 
 ---
 
