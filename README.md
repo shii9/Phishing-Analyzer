@@ -1,19 +1,5 @@
 # 🛡️ Ultimate Phishing Analyzer
 
-<div align="center">
-
-![Phishing Analyzer](https://img.shields.io/badge/Security-Phishing%20Analyzer-blue?style=for-the-badge&logo=shield)
-![Version](https://img.shields.io/badge/version-1.0.0-green?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-orange?style=for-the-badge)
-![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-3178C6?style=for-the-badge&logo=typescript)
-
-**An AI-powered, real-time phishing email detection and security analysis tool with advanced threat detection capabilities.**
-
-[Live Demo](https://phishing-email-detector-amber.vercel.app) • [Report Bug](https://github.com/shii9/Phishing-Analyzer/issues) • [Request Feature](https://github.com/shii9/Phishing-Analyzer/issues)
-
-</div>
-
 ---
 
 ## 📋 Table of Contents
