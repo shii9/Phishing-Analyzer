@@ -106,11 +106,6 @@
 
 ---
 
-## 🎬 Demo
-
-### Live Application
-Visit the live demo: [https://phishing-email-detector-amber.vercel.app](https://phishing-email-detector-amber.vercel.app)
-
 ### Screenshots
 
 > **Note**: Add screenshots of your application here to showcase the UI and features.
