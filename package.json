@@ -1,6 +1,7 @@
 {
   "name": "phishing-analyzer",
   "description": "Phishing Analyzer - AI-Powered Security Analysis",
+  "homepage": "https://shii9.github.io/Phishing-Analyzer/",
   "author": "Phishing Analyzer",
   "private": true,
   "version": "0.0.0",
