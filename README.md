@@ -191,14 +191,21 @@ bun install
 
 4. **Configure environment variables** (Optional)
 
-Create a `.env` file in the root directory if you want to use Supabase features:
+Copy the `.env.example` file to `.env` and add your Supabase credentials:
 
-```env
-VITE_SUPABASE_URL=your_supabase_url
-VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+```bash
+cp .env.example .env
 ```
 
-> **Note**: The application works without Supabase. It uses localStorage for data persistence by default.
+Then edit `.env` with your actual values:
+
+```env
+VITE_SUPABASE_PROJECT_ID=your_project_id
+VITE_SUPABASE_PUBLISHABLE_KEY=your_publishable_key
+VITE_SUPABASE_URL=https://your-project-id.supabase.co
+```
+
+> **Note**: The application works without Supabase. It uses localStorage for data persistence by default. Supabase is only needed for advanced features like cloud sync.
 
 ### Running the Application
 
