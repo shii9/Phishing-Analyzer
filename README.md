@@ -280,19 +280,6 @@ npm run lint
 
 ---
 
-## ⌨️ Keyboard Shortcuts
-
-| Shortcut | Action |
-|----------|--------|
-| `Ctrl+Enter` | Analyze email |
-| `Esc` | Clear/Reset analysis |
-| `H` | Toggle history sidebar |
-| `Q` | Open quiz mode |
-| `S` | Toggle stats dashboard |
-| `?` | Show keyboard shortcuts help |
-
----
-
 ## 📁 Project Structure
 
 ```
